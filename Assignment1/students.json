@@ -1,0 +1,6 @@
+[
+  { "name": "Alex Smith", "scores": [85, 90, 78] },
+  { "name": "Sam Doe", "scores": [92, 88, 95] },
+  { "name": "Charlie Brown", "scores": [60, 65, 70] },
+  { "name": "Jane Miller", "scores": [88, 82, 91] }
+]
