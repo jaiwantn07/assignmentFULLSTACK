@@ -1,0 +1,15 @@
+{
+  "name": "qr-code-attendance-system",
+  "version": "1.0.0",
+  "description": "IITK ID Card QR-based attendance Telegram Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "jimp": "^0.22.12",
+    "jsqr": "^1.4.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
